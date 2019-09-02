@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8826eb92-9e5c-4ec9-9bd3-11137be21bd2" name="Default" comment="" />
+    <list default="true" id="8826eb92-9e5c-4ec9-9bd3-11137be21bd2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/record-designPatterns/src/factory/z-factory.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-designPatterns/src/singleton/DoubleCheckSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-designPatterns/src/singleton/EnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-designPatterns/src/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-designPatterns/src/singleton/StaticInnerClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-designPatterns/src/singleton/z-singleton.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/FindContinuousSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/NumberOf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/NumberOf1Between1AndN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/array/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/array/FindNumbersWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/array/FindNumsAppearOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/array/GetNumberOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/array/GetUglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/array/MoreThanHalfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/array/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/array/PrintMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/array/ReOrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/list/CloneRandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/list/FindFirstCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/list/FindKthToTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/list/MergeTwoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/list/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/list/base/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/list/base/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/stack/IsPopOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/stack/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/str/FirstNotRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/str/PermutationOfStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/ConvertBinarySearchTreeToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/FindPathInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/HasSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/IsBalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/PrintFromTopToBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/ReConstructBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/TreeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/VerifySquenceOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record-leetcode/src/main/java/tree/base/TreeNode.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/record-spring/target/" />
@@ -18,82 +61,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record-standard/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <file leaf-file-name="PrintFromTopToBottom.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/PrintFromTopToBottom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReConstructBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/ReConstructBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeDepth.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/TreeDepth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifySquenceOfBST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/VerifySquenceOfBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/AddTwoNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-327">
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindContinuousSequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/FindContinuousSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-150">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberOf1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/NumberOf1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="3" column="103" selection-start-line="3" selection-start-column="103" selection-end-line="3" selection-end-column="103" />
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DateTime.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record-foundation/src/main/java/java8/time/DateTime.java">
+      <file leaf-file-name="NumberOf1Between1AndN.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/NumberOf1Between1AndN.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="Java8Optional.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record-foundation/src/main/java/java8/Java8Optional.java">
+      <file leaf-file-name="Power.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/Power.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="150">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BigDog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record-foundation/src/main/java/domain/BigDog.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record-foundation/src/main/java/domain/Dog.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="BusinessExceptionHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record-foundation/src/main/java/domain/BusinessExceptionHelper.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Java8NewFeature.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record-foundation/src/main/java/java8/Java8NewFeature.java">
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="55" column="49" selection-start-line="54" selection-start-column="16" selection-end-line="55" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/record-foundation/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DateUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record-foundation/src/main/java/java8/time/DateUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,6 +160,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -124,6 +176,20 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/record-foundation/pom.xml" />
         <option value="$PROJECT_DIR$/record-foundation/src/main/java/domain/BusinessExceptionHelper.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/array/FindNumsAppearOnce.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/list/CloneRandomListNode.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/list/FindFirstCommonNode.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/list/FindKthToTail.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/list/MergeTwoList.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/list/ReverseList.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/tree/ConvertBinarySearchTreeToList.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/tree/FindPathInTree.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/tree/HasSubtree.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/tree/IsBalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/tree/MirrorTree.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/tree/PrintFromTopToBottom.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/tree/ReConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/record-leetcode/src/main/java/tree/TreeDepth.java" />
       </list>
     </option>
   </component>
@@ -162,23 +228,9 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>AngularJS</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -204,18 +256,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Documents\IdeaProjects\JD\Accumulation\red-nose-bear\record-foundation\src\main\java" />
-      <recent name="E:\workspace\me\red-nose-bear\record-spring\src\main\resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\workspace\me\red-nose-bear\record-standard\src\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Documents\IdeaProjects\JD\Accumulation\red-nose-bear\record-designPatterns\src" />
+      <recent name="E:\Documents\IdeaProjects\JD\Accumulation\red-nose-bear\record-leetcode\src\main\java" />
+      <recent name="E:\Documents\IdeaProjects\JD\Accumulation\red-nose-bear\record-foundation\src\main\java" />
+      <recent name="E:\workspace\me\red-nose-bear\record-spring\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -296,7 +350,7 @@
       <workItem from="1567135055914" duration="11877000" />
       <workItem from="1567388059455" duration="2102000" />
       <workItem from="1567415985128" duration="1720000" />
-      <workItem from="1567421365128" duration="1513000" />
+      <workItem from="1567421365128" duration="2401000" />
     </task>
     <servers />
   </component>
@@ -321,11 +375,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18606000" />
+    <option name="totallyTimeSpent" value="19494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -333,7 +386,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.51747465" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
@@ -434,70 +487,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/record-spring/src/main/java/com/kuma/spring/dao/CateDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record-spring/src/main/java/com/kuma/spring/controller/CatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record-spring/src/main/java/com/kuma/spring/service/CateService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record-spring/src/main/java/com/kuma/spring/domain/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record-spring/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record-spring/src/main/resources/spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class" />
-    <entry file="jar://C:/Develop/java/jdk/jdk1.8/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" />
-    <entry file="jar://C:/Develop/java/jdk/jdk1.8/src.zip!/java/util/EventObject.java" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE.jar!/org/springframework/context/ApplicationEvent.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE.jar!/org/springframework/context/event/ApplicationContextEvent.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE.jar!/org/springframework/context/event/ContextClosedEvent.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/core/env/ConfigurablePropertyResolver.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/event/ContextClosedEvent.java" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/core/env/PropertyResolver.class" />
-    <entry file="jar://E:/m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/org/apache/commons/logging/impl/LogFactoryImpl.class" />
-    <entry file="jar://C:/Develop/java/jdk/jdk1.8/src.zip!/java/lang/Thread.java" />
-    <entry file="jar://C:/Develop/java/jdk/jdk1.8/src.zip!/java/util/Hashtable.java" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/core/env/StandardEnvironment.class" />
-    <entry file="jar://E:/m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/org/apache/commons/logging/LogFactory.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/util/PropertyPlaceholderHelper.class" />
-    <entry file="jar://E:/m2/repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/core/env/MissingRequiredPropertiesException.class" />
     <entry file="jar://E:/m2/repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/core/env/AbstractEnvironment.class" />
     <entry file="jar://E:/m2/repository/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java" />
     <entry file="jar://E:/m2/repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/core/env/AbstractPropertyResolver.class" />
@@ -579,8 +568,187 @@
     <entry file="file://$PROJECT_DIR$/record-foundation/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="270">
           <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/stack/IsPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/str/PermutationOfStr.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-designPatterns/src/factory/z-factory.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/array/FindNumsAppearOnce.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/list/base/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/list/base/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/list/CloneRandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/list/FindFirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/list/FindKthToTail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/list/MergeTwoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/list/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/array/FindGreatestSumOfSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/ConvertBinarySearchTreeToList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/FindPathInTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/HasSubtree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/IsBalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/MirrorTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/PrintFromTopToBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/ReConstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/TreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/FindContinuousSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/NumberOf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/NumberOf1Between1AndN.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-327">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record-leetcode/src/main/java/tree/VerifySquenceOfBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -647,7 +815,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>record-spring</last-edited>
+          <last-edited>red-nose-bear</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

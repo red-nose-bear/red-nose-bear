@@ -1,0 +1,1 @@
+工厂模式：https://www.hollischuang.com/archives/1391
