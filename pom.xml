@@ -20,7 +20,7 @@
     <properties>
         <!-- 设置整个项目的编码格式，可默认识别 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <springframework.version>4.3.12.RELEASE</springframework.version>
+        <springframework.version>5.3.18</springframework.version>
         <lombok.version>1.16.18</lombok.version>
         <junit.version>4.12</junit.version>
         <fastjson.version>1.2.60</fastjson.version>
