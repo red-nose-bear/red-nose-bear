@@ -28,7 +28,7 @@
         <google.collections.version>1.0</google.collections.version>
         <guava.version>20.0</guava.version>
         <jexpress.common.version>1.0.0-SNAPSHOT</jexpress.common.version>
-        <itextpdf.version>5.5.11</itextpdf.version>
+        <itextpdf.version>5.5.12</itextpdf.version>
         <barcode4j.version>2.1</barcode4j.version>
         <xmlworker.version>5.5.11</xmlworker.version>
         <jsoup.version>1.11.3</jsoup.version>
