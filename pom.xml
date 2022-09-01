@@ -31,7 +31,7 @@
         <itextpdf.version>5.5.11</itextpdf.version>
         <barcode4j.version>2.1</barcode4j.version>
         <xmlworker.version>5.5.11</xmlworker.version>
-        <jsoup.version>1.11.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <jedis.version>3.1.0</jedis.version>
 
         <springframework.version>5.2.0.RELEASE</springframework.version>
